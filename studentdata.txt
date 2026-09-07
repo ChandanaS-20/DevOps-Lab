@@ -4,3 +4,5 @@ CSE
 NIE college
 first rank student
 hobbies: volyball, cricket, co-co
+
+he is developing the application
